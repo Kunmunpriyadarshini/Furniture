@@ -4,3 +4,5 @@ sofa
 handless chair
 cuts
 almirah
+bench
+table
