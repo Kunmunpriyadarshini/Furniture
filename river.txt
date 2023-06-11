@@ -1,2 +1,4 @@
 ganga
 mahanadi
+yamuna
+sindhu
